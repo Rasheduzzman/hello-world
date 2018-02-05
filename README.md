@@ -1,2 +1,5 @@
 # hello-world
-just another repositery
+
+hi all !!
+
+i like node js and cofficescript(that's why i've made of)
